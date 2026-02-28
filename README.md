@@ -193,3 +193,7 @@ No pixels filled:
 Check:
 
     output/errors.txt
+
+---
+
+IKWL!
